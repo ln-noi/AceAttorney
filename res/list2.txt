@@ -1,0 +1,1560 @@
+300,200,152,188, 法官;
+0,540,1152,0;
+0,0,1152,768,res/pic/back/1.Beginning.png;
+0,0,1152,768,res/pic/back/1.Beginning.png;
+0,0,1152,768,res/pic/3.Dialogue.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【11月15日 上午10时 地方法院 第4法庭】;
+close,A,B,C,D,0,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+本院在此宣布，现在开始审理“AABB”一案。;
+close,A,B,C,D,1,1,1,1!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Normal.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+检方已准备完毕。;
+close,A,B,C,D,2,2,2,2!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Normal.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+（......）;
+close,A,B,C,D,3,3,3,3!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Shocked.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+辩、辩方已准备完毕。;
+close,A,B,C,D,4,4,4,4!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Closingeyes.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+......。律师，今天是你第一次上法庭吧？;
+close,A,B,C,D,5,5,5,5!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Nervous.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+是、是的。......我有些紧张......;
+close,A,B,C,D,6,6,6,6!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+委托人最后会被判处有罪还是无罪，都取决于律师的表现。你身为律师，那么紧张兮兮的可是不行的哦。;
+close,A,B,C,D,7,7,7,7!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Nervous.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+不好意思......;
+close,A,B,C,D,8,8,8,8!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Closingeyes.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+......好吧。在开始审理之前，让我看看，你是不是真的“准备完毕”吧。;
+close,A,B,C,D,9,9,9,9!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Nervous.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+好的......（呜哇，大脑突然一片空白......）;
+close,A,B,C,D,10,10,10,10!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我会问你一些简单的问题，请你回答。;
+close,A,B,C,D,11,11,11,11!
+
+300,200,152,188, 搭档;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/characters/Partner-Normal.png;
+0,0,1152,768,res/pic/characters/Partner-Normal.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+不用太过紧张。如果想不起来的话，随时可以点击右下角的“图鉴”查看人物档案和证物档案。;
+close,A,B,C,D,12,12,12,12!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+那么，首先请你回答本次事件*被告*的名字。A：汪酱 B：AABB C：ccdd D：579;
+true,A,B,C,D,14,14,14,15!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Warning.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+请你好好思考，重新回答问题。;
+true,A,B,C,D,14,14,14,15!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+很好，看来你已经冷静下来了。接下来进入审议。检察官，请传唤第一位证人。;
+close,A,B,C,D,15,15,15,15!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Normal.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+那么，首先请指挥现场搜查的刑警出庭。请你针对本次事件进行简单说明。;
+close,A,B,C,D,16,16,16,16!
+
+300,200,152,188, 刑警;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Police-Determined.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+好的。被目击者发现时，被害人的遗体正处在卧室。被害人的直接死因是被家中的狗扑咬至死。;
+close,A,B,C,D,17,17,17,17!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Document.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+此外，尸检报告显示被害人死亡前曾摄入过量安眠药。在昏睡的过程中，被害人也无法醒来进行自救。;
+close,A,B,C,D,18,18,18,18!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Normal.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+请问证人，警方逮捕被告的原因是什么？;
+close,A,B,C,D,19,19,19,19!
+
+300,200,152,188, 刑警;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Police-Determined.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我们在被害人家中的安眠药瓶上，发现了被告的指纹！;
+close,A,B,C,D,20,20,20,20!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Normal.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+法官，正如证人所言。那么在此，检方请求传唤第二位证人——cdcd出庭。;
+close,A,B,C,D,21,21,21,21!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+从事先呈给本院的资料上来看，这位证人是被害的妹妹，同时也是她的经纪人？;
+close,A,B,C,D,22,22,22,22!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Normal.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+确实如此。;
+close,A,B,C,D,23,23,23,23!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+姐姐突然离世，而且还是因为我的疏忽......;
+close,A,B,C,D,24,24,24,24!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Normal.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+现在你能做的，只有做出正确的证言，帮助我们尽快找到真凶。;
+close,A,B,C,D,25,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我明白了......;
+close,A,B,C,D,26,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+接下来，请证人就安眠药一事做出证言。;
+close,A,B,C,D,27,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Serious.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+～证言·安眠药～。那一天，正好是姐姐的生日，所以我们举办了很隆重的生日宴会，到场的人也很多，579就是其中一个。说起来，我和579还是通过汪酱成为好朋友的......没想到居然会这样......。那天晚上，大家给姐姐送了很多礼物，姐姐很开心，基本上所有可以当场使用的礼物她都用了一遍。之后，姐姐由于最近有些失眠，就问我要安眠药，我忙不过来，就跟579说我要去倒水，麻烦她给姐姐递一下安眠药。;
+close,A,B,C,D,28,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我明白了。那么，律师，到你询问的环节了。;
+close,A,B,C,D,29,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Serious.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【询问中】那一天，正好是姐姐的生日，所以我们举办了很隆重的生日宴会，到场的人也很多，579就是其中一个。A.继续追问   B.算了;
+true,A,B,31,33!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+是在你们的家里举办的吗？;
+close,A,B,C,D,31,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Serious.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+对，姐姐的生日派对一直都是在家里面办的。;
+close,A,B,C,D,32,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Serious.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【询问中】说起来，我和579还是通过汪酱成为好朋友的......没想到居然会这样......。A.继续追问   B.算了;
+true,A,B,34,36!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+你和579，具体是怎么相识的呢？;
+close,A,B,C,D,34,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Serious.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+之前汪酱染上流行病时，我带他去兽医院看病，那时就是579帮他治好的。之后聊得投机，我们也就顺理成章做了好朋友。;
+close,A,B,C,D,35,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Serious.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【询问中】那天晚上，大家给姐姐送了很多礼物，姐姐很开心，基本上所有礼物她都当场拆开了。A.继续追问   B.算了;
+true,A,B,37,43!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Normal.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+比如说，你姐姐收到了哪些礼物呢？;
+close,A,B,C,D,37,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Smiling.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+各种各样的都有啦，就拿我来说，那天我给姐姐送了一条她很喜欢的丝巾。;
+close,A,B,C,D,38,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+是案发时你姐姐戴着的那一条吗？;
+close,A,B,C,D,39,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+是的......姐姐不仅系上了我给她的围巾，还把579送给他的香水喷在身上了。她那天还说，今晚一定能睡个好觉了。没想到，呜呜呜呜呜......;
+close,A,B,C,D,40,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Normal.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+请证人平复一下情绪。关于“香水”，检方会在之后进行相关举证。;
+close,A,B,C,D,41,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Nervous.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+（有种不妙的预感）;
+close,A,B,C,D,42,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【询问中】之后，姐姐由于最近有些失眠，就问我要安眠药，我忙不过来，就跟579说我要去倒水，麻烦她给姐姐递一下安眠药。A.继续追问   B.算了;
+true,A,B,44,46!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+你有看见被告给你姐姐倒了几粒安眠药吗？;
+close,A,B,C,D,44,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Normal.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我当时去给姐姐倒水了，没有看见。;
+close,A,B,C,D,45,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Confident2.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+综上所述，现有的证人及证物都表明，被告有极大可能诱使被害人服下过量安眠药。;
+close,A,B,C,D,46,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+嗯，很有道理。;
+close,A,B,C,D,47,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+（真的是这样吗？）;
+close,A,B,C,D,48,0,0,0!
+
+300,200,152,188, 搭档;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/characters/Partner(side)-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+......好好回想一下，证物档案里有没有和这个说法相矛盾的证物？;
+close,A,B,C,D,49,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+————原来如此！。谢谢你，前辈......;
+close,A,B,C,D,50,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+那么我们就继续听证人发......;
+close,A,B,C,D,51,0,0,0!
+
+300,200,152,188, ;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Pointing.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/Objection.png;
+res/mus/kt.wav;
+;
+close,A,B,C,D,52,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Pointing.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我有证据可以证明，过量的安眠药并非出自被告之手！;
+close,A,B,C,D,53,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+哦？请说说你的看法。;
+close,A,B,C,D,54,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Confident.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+被害人当时服用安眠药的茶杯中，检测出了安眠药的有关成分！。而一般来说，口服的胶囊是不会在水中溶解如此剂量的！。也就是说，当时被害人所服用的水中有问题！;
+close,A,B,C,D,55,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+啊！当时给被害人倒水的是......;
+close,A,B,C,D,56,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Slamming.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+没错！我现在有充分理由怀疑证人——ccdd，具有杀害AABB的嫌疑！。（总之先虚张声势一番......走一步看一步吧！）;
+close,A,B,C,D,57,0,0,0!
+
+300,200,152,188, 搭档;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/characters/Partner(side)-Disheartened.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+（都是从哪里学来的辩护习惯......）;
+close,A,B,C,D,58,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+不，怎么可能！我怎么会想要杀害姐姐呢！;
+close,A,B,C,D,59,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Pointing.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+这种无凭无据的猜测，给证人造成了相当的困扰。法官，我请求让证人作出目击证言。;
+close,A,B,C,D,60,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+目击证言吗......说起来证人还是现场的第一目击者呢。那么，请证人开始证言。;
+close,A,B,C,D,61,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+～证言·第一目击者～。当时是半夜......一开始，我听到一两声汪酱的叫声，起初并没有在意。但叫声越来越大，我察觉到不对劲，就赶紧往声音传来的地方去。那是姐姐的卧室......我打开灯，看见满地的鲜血和静静躺在床上的姐姐。汪酱冲我大声嚎叫起来，我急忙关了灯，它才平静下来。;
+close,A,B,C,D,62,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+本院明白了。那么，律师，可以开始询问了。;
+close,A,B,C,D,63,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Normal.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+哦！好、好的。;
+close,A,B,C,D,64,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【询问中】当时是半夜......一开始，我听到一两声汪酱的叫声，起初并没有在意。A.继续追问   B.算了;
+true,A,B,66,68!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Slamming.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+为什么起初你没有在意？;
+close,A,B,C,D,66,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Normal.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+汪酱喜欢叫，我们一家人或多或少也习惯了。;
+close,A,B,C,D,67,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【询问中】但叫声越来越大，我察觉到不对劲，就赶紧往声音传来的地方去。A.继续追问   B.算了;
+true,A,B,69,71!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Normal.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+你还记得当时是几点吗？;
+close,A,B,C,D,69,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Normal.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+不太清楚，我没有来得及看。;
+close,A,B,C,D,70,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【询问中】那是姐姐的卧室......我打开灯，看见满地的鲜血和静静躺在床上的姐姐。A.继续追问   B.算了;
+true,A,B,72,75!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+那个时候，你没有对姐姐进行急救吗？;
+close,A,B,C,D,72,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+姐姐浑身是血，我就赶紧打给120了;
+close,A,B,C,D,73,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Normal.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+可惜最后还是抢救失败了......;
+close,A,B,C,D,74,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Fearful.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【询问中】汪酱冲我大声嚎叫起来，我急忙关了灯，它才平静下来。A.继续追问   B.算了;
+true,A,B,76,79!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+关了灯后，汪酱才平静下来？;
+close,A,B,C,D,76,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Normal.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+是啊，我当时赶紧用袋子把汪酱套住，担心他再伤害姐姐。;
+close,A,B,C,D,77,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+（好像有哪里不太自然......?）;
+close,A,B,C,D,78,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+还用再继续进行追问吗，辩护人？;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Embarrassed.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+是的，我还想再......;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Smiling.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+根本没有继续追问的必要！。因为接下来，检方会说明被告的作案动机和手法！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Shocked.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+怎么会！！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 搭档;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/characters/Partner(side)-Disheartened.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+看起来事情不太妙啊......;
+close,A,B,C,D,49,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Document.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+首先，是被告当天送给被害人——AABB的香水。事实上，经过药理分析，发现香水中含有一种特殊成分。而这种成分，可以引起动物的狂躁，从而使其产生攻击性行为。;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Thinking.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+（被告的职业......是兽医！这难道有什么关联么？）;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Confident2.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+看起来对方的律师已经察觉到了。过量的安眠药和含有特殊成分的香水，这绝不是偶然。作为诊断汪酱的兽医，被告可以充分了解汪酱的行为模式。同理，含有诱导汪酱攻击性行为成分的香水，也是被告的蓄意举动！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Slamming.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+但是，仅凭这些证据，还无法充分证明被告有罪！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Pointing.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+此外还有一个非常关键的因素——那就是被告的动机！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Document.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+法官，请您仔细浏览这份文件。;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+哦？这是......？;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Document.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+没错，这是一份关于“艺考”的资料。五年前，正是被害人——AABB顶替了被告，借由被告本人的努力才考上了知名的艺术学校！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Shocked.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+怎、怎么会！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Pointing.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+丧失了艺考资格的被告无奈之下只得学习了兽医专业，而机缘巧合之下，她又与被害的妹妹相识！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Slamming.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+充足的动机、清晰的作案手法和保障措施！这就是本起案件的真相！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Closingeyes.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+如此看来，本案已经很明确了......;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, ;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Pointing.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/Objection.png;
+res/mus/kt.wav;
+;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Pointing.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我反对！这只是对方检察官的一面之词！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+难不成，你有可以推翻这种说法的证据吗？;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Confident.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+马上就会有了！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Document.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+之前在询问证人时，有一个我觉得不解的点......。那就是在开灯后，汪酱反而变得狂躁！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Irritated.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+这、这跟本案有什么关系......汪酱本来就是个坏孩子！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Slamming.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+法官，请您准许辩方临时追加一位证人！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+虽然可以......但你想追加哪一位证人？;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Damaged1.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+！！！不、不会吧......;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Confident.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+没错！就是本次的“凶狗”——汪酱！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+辩方是认真这么提议的么？;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Normal.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+当然是认真的！只有审问汪酱本狗，才能挖掘出背后的真相！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, ;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Slamming.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/Objection.png;
+res/mus/kt.wav;
+;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Slamming.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+在法庭上审问狗......这简直是在藐视法律的尊严！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+听一听也无妨，毕竟本案还存在几个未能解决的疑点。那么，接下来传唤“汪酱”！;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 汪酱;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Doggy-Angry.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+呼呼呼呼......汪汪！汪汪汪！;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+看起来真的很凶呢......那么，请证人开始证言。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 汪酱;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Doggy-Angry.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+~证言中·汪酱~。......;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Thinking.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+果然不出所料。法官，我请求......;
+close,A,B,C,D,81,0,0,0!
+
+
+300,200,152,188, 汪酱;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Doggy-Angry.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+嗷呜呜呜呜呜呜————！！;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Damaged1.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+！！！！！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Slamming.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+请先冷静下来！汪酱！。法官，我请求出示证物！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+无妨。......只是，我稍微有些担心证人的精神状态。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Confident.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我是绝对相信汪酱的！。不过，在此之前，我想先关一下灯。;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 汪酱;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Doggy-Happy.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+......;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+居然瞬间就平静了下来......;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Normal.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+那么，我现在打开灯。;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 汪酱;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Doggy-Angry.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+嗷呜呜呜呜呜呜呜————————;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Doggy-Happy.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+关上灯——;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/Doggy-Angry.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+打开灯——;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Damaged1.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+这简直是判若两狗！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Slamming.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+经过这个小小的验证，我们可以直观地看出——。汪酱在光下容易变得暴怒且具有攻击性！。如果现在拿出被告的香水，我也敢笃定汪酱并不会受到其影响！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我了解了，之后本院会派人去验证的。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Document.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+除此之外，法官，请您看一看这一份之前提交上去的化验报告......;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+丝巾上的荧光剂成分......？。难道被害人的妹妹......？;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Irritated.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+怎么会这样——！！！;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Confident.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+法官，趁此时机，辩方想要传唤被告！。因为，尽管证明了犯案之手并不属于被告，但有些事情，还是自己要证明！;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+我也想听听被告本人的说法。那么接下来，就请被告进行发言。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188,579;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/579-Keeping.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+......;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188,579;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/579-Toside.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+因为艺考资格被顶替，我过上了截然不同的人生。曾经在某段时间，我也恨她恨到千刀万剐都不足以抵消。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188,579;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/579-Strict.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+然而我可以十分肯定地说，这次的罪行绝对不是出自我之手！;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188,579;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/579-Strict.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+事实上，我之所以买了那瓶香水作为给AABB的生日礼物，也是因为ccdd的推荐！;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188,579;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/579-Keeping.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+更何况，我早已经放下那段过去......接受我新的人生。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188,579;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/579-Strict.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+真正放不下的，是你吧！ccdd！;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188,579;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/579-Toside.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+事已至此，我也没有什么好说的了。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188,579;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/579-Normal.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+......其实我真的把你当作挚友看待过，没想到是这样的结果。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 搭档;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/characters/Partner(side)-Shocked.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+等等！。......那是——ccdd居然冲上了证人台！！;
+close,A,B,C,D,58,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Nervous.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+嘎啊啊啊啊啊啊啊啊啊啊啊啊——————;
+close,A,B,C,D,58,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Warning.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+证人！请你先冷静下来！;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Nervous.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+什么冷静！没错，姐姐就是我借汪酱之口杀的！;
+close,A,B,C,D,58,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Nervous.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+明明她都不是我的亲生姐姐......只是一个被领养的可怜虫！。但我的父母还是会把所有好东西都先给她......;
+close,A,B,C,D,58,0,0,0!
+
+300,200,152,188, cdcd;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Witness.png;
+0,0,1152,768,res/pic/characters/cdcd-Nervous.png;
+0,0,1152,768,res/pic/back/3.Witness.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+那个艺考名额......本来也应该是我的！。不仅如此，我还要当她的经纪人，给她擦屁股。这不公平——;
+close,A,B,C,D,58,0,0,0!
+
+300,200,152,188, 搭档;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/back/1.PartnerSide.png;
+0,0,1152,768,res/pic/characters/Partner(side)-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+看起来真相终于水落石出了呢。;
+close,A,B,C,D,58,0,0,0!
+
+300,200,152,188, 律师;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Defense.png;
+0,0,1152,768,res/pic/characters/Attorney-Normal.png;
+0,0,1152,768,res/pic/back/3.Defense.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+是啊......。（没想到我的第一次辩护，会以这种形式收尾）;
+close,A,B,C,D,80,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Closingeyes.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+唉。;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+检察官，你还有什么想要举证的吗？;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Prosecution.png;
+0,0,1152,768,res/pic/characters/Prosecutor(side)-Irritated.png;
+0,0,1152,768,res/pic/back/3.Prosecution.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+没有了······可恶······;
+close,A,B,C,D,81,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+那么我宣布，被告——ccdd;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,0;
+0,0,1152,768,res/pic/back/1.Beginning.png;
+0,0,1152,768,res/pic/back/1.Beginning.png;
+0,0,1152,768,res/pic/3.Dialogue.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+【无罪】！;
+close,A,B,C,D,79,0,0,0!
+
+300,200,152,188, 法官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/back/1.Judge.png;
+0,0,1152,768,res/pic/characters/Judge-Strict.png;
+0,0,1152,768,res/pic/4.Dialogue.png;
+res/mus/kt.wav;
+今日的审理到此结束！;
+close,A,B,C,D,79,0,0,0!

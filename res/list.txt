@@ -1,0 +1,45 @@
+300,200,152,188, 审判长;
+0,540,1152,180;
+0,0,1152,768,res/pic/back1.png;
+0,0,1152,768,res/pic/back2.png;
+0,0,1152,768,res/pic/back3.png;
+0,0,1152,768,res/pic/back4.png;
+res/mus/kt.wav;
+接下来进入审议。x检察官，请传唤第一位证人。A：选A。B：选B。C：选C。D：选D；
+true,A,B,C,D;
+-1!
+
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back1.png;
+0,0,1152,768,res/pic/back2.png;
+0,0,1152,768,res/pic/back1.png;
+0,0,1152,768,res/pic/back2.png;
+res/mus/kt.wav;
+接下来进入审议。x检察官，请传唤第一位证人。A：选A。B：选B。C：选C。D：选D；
+true,A,B,C,D;
+-1!
+
+
+300,200,152,188, 检察官;
+0,540,1152,180;
+0,0,1152,768,res/pic/back1.png;
+0,0,1152,768,res/pic/back2.png;
+0,0,1152,768,res/pic/back1.png;
+0,0,1152,768,res/pic/back2.png;
+res/mus/kt.wav;
+接下来进入审议。x检察官，请传唤第一位证人。A：选A。B：选B。C：选C。D：选D；
+true,A,B,C,D;
+-1!
+
+300,200,152,188,人;
+0,540,1152,180;
+0,0,1152,768,res/pic/back1.png;
+0,0,1152,768,res/pic/back2.png;
+0,0,1152,768,res/pic/back1.png;
+0,0,1152,768,res/pic/back2.png;
+res/mus/kt.wav;
+接下来进入审议。x检察官，请传唤第一位证人。A：选A。B：选B。C：选C。D：选D；
+true,A,B,C,D;
+-1!
